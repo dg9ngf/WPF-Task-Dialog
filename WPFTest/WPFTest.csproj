@@ -88,7 +88,7 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TaskDialog\TaskDialog.csproj">
+    <ProjectReference Include="..\WpfTaskDialog\WpfTaskDialog.csproj">
       <Project>{37FD53F7-8A8F-4427-8FF4-6299E2933A7E}</Project>
       <Name>TaskDialog</Name>
     </ProjectReference>

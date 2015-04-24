@@ -1,5 +1,15 @@
 # WPF Task Dialog Wrapper #
 
+-----
+
+NOTE: This is my (Yves Goergen) fork of the library originally published on CodeProject.
+It contains a number of fixes and additions like a simple static method with named parameters
+for easier usage in your application. It has also been published as NuGet package under the
+ID "**Unclassified.WpfTaskDialog**". Just search for "taskdialog" and you'll find it, along
+with the original release from 2012.
+
+-----
+
 It is a drop-in assembly that lets you call up Task Dialogs in your WPF app.
 Uses the native [TaskDialogIndirect][1] API calls when available (Vista/7) and
 falls back to an emulated WPF dialog when not (XP and earlier).

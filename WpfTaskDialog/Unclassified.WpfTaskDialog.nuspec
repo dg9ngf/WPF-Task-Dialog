@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>Unclassified.WpfTaskDialog</id>
+		<title>WPF Task Dialog</title>
+		<version>1.0.0</version>
+		<authors>Yves Goergen</authors>
+		<owners>Yves Goergen</owners>
+		<projectUrl>https://github.com/dg9ngf/WPF-Task-Dialog</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>A TaskDialog wrapper class with fallback emulator (for XP and earlier).</description>
+		<copyright>Yves Goergen, Sean A. Hanley</copyright>
+		<tags>wpf task dialog wrapper</tags>
+	</metadata>
+	<files>
+		<file src="bin\Release\Unclassified.WpfTaskDialog.dll" target="lib\net40"/>
+		<file src="bin\Release\Unclassified.WpfTaskDialog.pdb" target="lib\net40"/>
+		<file src="bin\Release\Unclassified.WpfTaskDialog.xml" target="lib\net40"/>
+	</files>
+</package>
